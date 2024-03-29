@@ -1,0 +1,13 @@
+.cart-left{
+    /* border: 1px solid black; */
+    box-shadow: 2px 2px 5px;
+    margin: 10px;
+}
+.cart-right{
+    /* border: 1px solid black; */
+    box-shadow: 2px 2px 5px;
+    margin: 10px;
+}
+.cart-img{
+    height: 80px;
+}

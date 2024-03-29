@@ -1,0 +1,40 @@
+.login-left{
+    height: 500px;
+}
+.login-left h3{
+    font-weight: 700;
+    color: white;
+}
+.login-left p{
+    color: rgb(218, 211, 211);
+}
+.login-img{
+    margin-top: 150px;
+}
+.login-input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid blue;
+}
+.login-input:focus{
+    outline: none;
+}
+.login-right p{
+    font-size: 13px;
+    margin-top: 30px;
+}
+.request-btn{
+    background-color: #fb641b;
+    border: 1px solid  #fb641b;
+    color: white;
+    font-weight: 500;
+    width: 100%;
+    padding: 10px;
+}
+.create-sign{
+    margin-top: 10px;
+    padding: 10px 10px;
+    box-shadow: 1px 1px 5px grey;
+    font-weight: 500;
+    cursor: pointer;
+}

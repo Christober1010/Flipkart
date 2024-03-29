@@ -1,0 +1,16 @@
+.add-btn{
+    padding: 5px 6px;
+    margin: 10px;
+    text-transform: uppercase;
+    background-color: orange;
+    color: white;
+    border: none;
+}
+.buy-btn{
+    padding: 5px 15px;
+    margin: 10px;
+    text-transform: uppercase;
+    background-color: rgb(255, 102, 0);
+    color: white;
+    border: none;
+}

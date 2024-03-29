@@ -1,0 +1,19 @@
+.product-box{
+    display: flex;
+    overflow: auto;
+}
+.product-body{
+    margin:10px
+}
+.product-card img{
+    object-fit: contain;
+    height: auto;
+    width: 250px;
+    margin: 10px;
+    transition:0.8s;
+    margin-bottom: 20px;
+}
+.product-card img:hover{
+    transform: scale(1.05);
+    box-shadow: 1px 1px 5px;
+}
